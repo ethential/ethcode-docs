@@ -34,10 +34,7 @@ To install manually:
 
 Press **Ctrl + Alt + e ** to activate Ethcode.
 
-
-
-
-<!-- Let us begin with the most basic example.
+Let us begin with the most basic example.
 
 ### Storage
 
