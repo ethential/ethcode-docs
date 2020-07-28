@@ -1,6 +1,6 @@
 ---
 name: Debug Transaction
-route: /debug-transaction
+route: /docs/debug-transaction
 ---
 
 # Debug Transaction

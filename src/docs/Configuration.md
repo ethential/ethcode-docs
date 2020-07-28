@@ -1,6 +1,6 @@
 ---
 name: Configuration
-route: /configuration
+route: /docs/configuration
 ---
 
 # Configuration

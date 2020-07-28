@@ -1,6 +1,6 @@
 ---
 name: Command Line Tool
-route: /commandline-tool
+route: /docs/commandline-tool
 ---
 
 # Command Line Tool

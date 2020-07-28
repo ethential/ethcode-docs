@@ -1,6 +1,6 @@
 ---
 name: Internationalization
-route: /internationalization
+route: /docs/internationalization
 ---
 
 # Internationalization

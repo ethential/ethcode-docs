@@ -1,6 +1,6 @@
 ---
 name: Transfering Ether
-route: /transfer-ether
+route: /docs/transfer-ether
 ---
 
 # Transfering Ether

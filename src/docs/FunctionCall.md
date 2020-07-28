@@ -1,6 +1,6 @@
 ---
 name: Function Call
-route: /function-call
+route: /docs/function-call
 ---
 
 # Function Call

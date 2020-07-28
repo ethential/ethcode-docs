@@ -1,6 +1,6 @@
 ---
 name: Contarct Usage
-route: /contract-usage
+route: /docs/contract-usage
 ---
 
 # Contarct Usage
