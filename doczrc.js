@@ -5,7 +5,7 @@ export default {
   menu: [
     {
       name: "Getting Started",
-      menu: ["Installation", "Compiling & Deployment"]
+      menu: ["Introduction","Ethcode Layout"]
     },
     {
       name: "Transfering Ether"
