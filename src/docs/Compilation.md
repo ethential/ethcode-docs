@@ -1,6 +1,7 @@
 ---
 name: Compiler
 menu: Getting Started
+route: /docs/getting-started
 ---
 
 # Compiler

@@ -7,13 +7,16 @@ route: /
 
 Ethcode is a powerful, open source IDE that helps you write Solidity and Vyper Smart Contracts straight from the VS Code.
 
-Ethcode also supports testing, debugging and deploying **(multiple test networks)** of smart contracts and much more. Our IDE tool is available at [our GitHub repository](https://github.com/quantanet/ethcode)
+Ethcode also supports testing, debugging and deploying **(multiple test networks)** of smart contracts and much more. Our IDE tool is available at [our GitHub repository](https://github.com/ethential/ethcode)
 
 This set of documents covers instructions on how to use Ethcode and some tutorials to help you get started.
 
 Useful links:
 * [Solidity documentation](https://solidity.readthedocs.io/en/v0.6.4/)
-* [Community Support Channel](https://gitter.im/Ethereum-Devtools-Developers-Studio/ethcode)
+
+## Community
+[![Join the chat at https://gitter.im/Ethential/ethcode](https://badges.gitter.im/Ethential/ethcode.svg)](https://gitter.im/Ethential/ethcode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Discord chat](https://img.shields.io/discord/722971683388129290?color=7389D8&logo=discord&logoColor=ffffff)](https://discord.gg/87sE7Bm)
 
 
 
@@ -25,7 +28,7 @@ You can install Ethcode from VS Code marketplace.
 
 To install manually:
 
-* Download the **vsix** file from [marketplace](https://marketplace.visualstudio.com/items?itemName=quantanetwork.ethcode).
+* Download the **vsix** file from [marketplace](https://marketplace.visualstudio.com/items?itemName=ethential.ethcode).
 * Goto extensions tab and install from **vsix**.
 
 ![Screenshot from 2020-03-16 18-09-14](https://user-images.githubusercontent.com/9979182/76759278-5cadfc80-67b1-11ea-9315-e1426871bb6d.png)
@@ -34,10 +37,7 @@ To install manually:
 
 Press **Ctrl + Alt + e ** to activate Ethcode.
 
-
-
-
-<!-- Let us begin with the most basic example.
+Let us begin with the most basic example.
 
 ### Storage
 
@@ -56,4 +56,4 @@ A contract in the sense of Solidity is a collection of code (its functions) and 
 
 To access a state variable, you do not need the prefix this. as is common in other languages.
 
-This contract does not yet do much apart from (due to the infrastructure built by Ethereum) allowing anyone to store a single number that is accessible by anyone in the world without (feasible) a way to prevent you from publishing this number. Of course, anyone could just call set again with a different value and overwrite your number, but the number will still be stored in the history of the blockchain. Later, we will see how you can impose access restrictions so that only you can alter the number. -->
+This contract does not yet do much apart from (due to the infrastructure built by Ethereum) allowing anyone to store a single number that is accessible by anyone in the world without (feasible) a way to prevent you from publishing this number. Of course, anyone could just call set again with a different value and overwrite your number, but the number will still be stored in the history of the blockchain. Later, we will see how you can impose access restrictions so that only you can alter the number.
