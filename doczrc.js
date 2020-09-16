@@ -1,11 +1,17 @@
 export default {
   typescript: true,
-  title: "Vscode Ethereum IDE Ethcode :: User guide",
+  title: "Ethcode: User Guide",
   description: "This is a through guide on how to use Ethcode to compile smart contracts in solidity or vyper. You can also deploy smartcontracts and call functions using Ethcode smart contract management interface.",
   menu: [
     {
       name: "Getting Started",
-      menu: ["Introduction","Ethcode Layout"]
+      menu: ["Introduction","Smart Contract Example","Ethcode Layout"]
+    },
+    {
+      name: "Compilation"
+    },
+    {
+      name: "Deployment"
     },
     {
       name: "Transfering Ether"
@@ -25,8 +31,5 @@ export default {
     {
       name: "Internationalization"
     },
-    {
-      name: "Command Line Tool"
-    }
   ]
 };
