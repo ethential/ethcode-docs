@@ -2,16 +2,18 @@
 name: Ethcode Layout
 menu: Getting Started
 ---
-# Ethcode layout
 
-## Main window
+### Main
+![main](https://user-images.githubusercontent.com/9979182/93394396-cbb7fb00-f891-11ea-954b-35d076a804be.png)
 
-![main](https://user-images.githubusercontent.com/9979182/76938899-710f0800-691d-11ea-8b65-bfac9c558fbb.png)
+### Account
+![account](https://user-images.githubusercontent.com/9979182/93394647-29e4de00-f892-11ea-81ce-dfea1d4001f6.png)
 
-## Debug window
+### Deploy
+![deploy](https://user-images.githubusercontent.com/9979182/93394846-79c3a500-f892-11ea-9729-88d60c4f3e55.png)
 
-![debug](https://user-images.githubusercontent.com/9979182/76941365-e5e44100-6921-11ea-985d-637409aa9fdb.png)
+### Debug
+![debug](https://user-images.githubusercontent.com/9979182/93394912-94961980-f892-11ea-933d-322eb570649f.png)
 
-## Test window
-
-![test](https://user-images.githubusercontent.com/9979182/76941406-f7c5e400-6921-11ea-8a28-d82ba9883ddf.png)
+### Test
+![test](https://user-images.githubusercontent.com/9979182/93398025-661b3d00-f898-11ea-8f02-ed83447bb628.png)
