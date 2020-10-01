@@ -14,22 +14,19 @@ export default {
       name: "Deployment"
     },
     {
+      name: "Contarct Execution"
+    },
+    {
+      name: "Sign Transactions"
+    },
+    {
       name: "Transfering Ether"
-    },
-    {
-      name: "Contarct Usage"
-    },
-    {
-      name: "Function Call"
     },
     {
       name: "Debug Transaction"
     },
     {
       name: "Configuration"
-    },
-    {
-      name: "Internationalization"
     },
   ]
 };
