@@ -5,7 +5,7 @@ export default {
   menu: [
     {
       name: "Getting Started",
-      menu: ["Introduction","Registration","Smart Contract Example","Ethcode Layout"]
+      menu: ["Introduction","Smart Contract Example","Ethcode Layout"]
     },
     {
       name: "Compilation"
